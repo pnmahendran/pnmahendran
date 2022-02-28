@@ -1,0 +1,3 @@
+project_id: “project-id-193706”
+credentials_file: “/path/to/private/json/key/file”
+service_account_email: “tomcat-ansible-demo@service-account-193706.iam.gserviceaccount.com”
