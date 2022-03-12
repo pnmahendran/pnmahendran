@@ -1,6 +1,6 @@
 gce_name: tomcat-ansible-demo
 type: f1-micro
 image: debian-9
-zone: europe-west1-b
+zone: us-east1-b
 allowed_ports_tcp: tcp:8080
 allowed_ports_udp: udp:8080

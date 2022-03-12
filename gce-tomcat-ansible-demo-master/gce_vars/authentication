@@ -1,3 +1,3 @@
-project_id: “project-id-193706”
-credentials_file: “/path/to/private/json/key/file”
-service_account_email: “mahendran@endless-radar-342723.iam.gserviceaccount.com”
+project_id: "endless-radar-342723"
+credentials_file: "/home/Mahendran/myproject/endless-radar-342723-27ed7f834be1.json"
+service_account_email: "mahendran@endless-radar-342723.iam.gserviceaccount.com"
